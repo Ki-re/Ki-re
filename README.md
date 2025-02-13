@@ -1,6 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+👋 Welcome to My GitHub!
+I'm a Computer Engineering student with a strong background in systems administration, networking, and virtualization. My programming expertise includes Python, C, C++, and Assembly, with a focus on low-level systems, performance optimization, and automation.
 
+I enjoy solving complex problems, working with embedded systems, and optimizing infrastructure. Here, you'll find projects related to system programming, network tools, and software development.
+
+Feel free to explore my repositories and connect with me! 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erikbatisteviader) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:erikbatiste10@gmail.com) 
